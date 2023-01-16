@@ -1,16 +1,11 @@
-# bmi_calculator
+# BMI Calculator In Flutter
 
-A new Flutter project.
+Its a simple cross platform flutter application to calculate BMI from Weight and Height.
 
-## Getting Started
+## Screen Shots
 
-This project is a starting point for a Flutter application.
+For Mobile Device:
 
-A few resources to get you started if this is your first Flutter project:
+![1673903148440](image/README/1673903148440.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For Windows:
